@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18552631578947368" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/drawable/ic_outline_shopping_cart_24.xml" value="0.2" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/layout/activity_cart.xml" value="0.16485507246376813" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidApp/BuizzWholeAndroidUser/app/src/main/res/layout/cart.xml" value="0.22" />
         <entry key="..\:/Codes/Android/BuizzWholeAndroidUser/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
       </map>
     </option>
